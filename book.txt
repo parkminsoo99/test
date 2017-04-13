@@ -1,0 +1,5 @@
+parkminsoo	kimtaemin	home	10000
+parkminsoo	kimtaemin	home	10000
+park	story	bookstory	20000
+samsung	notepad	mega	30000
+choco	yellow	admin	30000
